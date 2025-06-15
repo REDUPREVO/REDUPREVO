@@ -17,7 +17,7 @@
 - **AI/ML**: TensorFlow, PyTorch, OpenCV, HuggingFace
 - **Mobile**: React Native (Expo), Android Studio (Java/Kotlin)
 - **Databases**: Firebase, Supabase, MongoDB
-- **Other Tools**: Git, GitHub, Docker, VS Code, Figma
+- **Other Tools**: Git, GitHub, Docker, VS Code, Figma,Cursor,Windsurf,Trae,v0
 
 ---
 
